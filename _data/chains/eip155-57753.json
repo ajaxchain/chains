@@ -1,0 +1,23 @@
+{
+  "name": "Vibrant Testnet",
+  "chain": "Vibrant Testnet",
+  "rpc": ["https://rpc-testnet.vibrantblock.io/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "wVibrant",
+    "symbol": "wVibrant",
+    "decimals": 18
+  },
+  "infoURL": "https://vibrantblock.io",
+  "shortName": "Vibrant",
+  "chainId": 57753,
+  "networkId": 1,
+  "icon": "vibrant",
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer-testnet.vibrantblock.io/",
+      "icon": "vibrant",
+      "standard": "EIP3091"
+    }
+  ]
